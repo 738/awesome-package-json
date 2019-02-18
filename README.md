@@ -2,8 +2,6 @@
 
 ## Contents
 
----
-
 * name
 * version
 * description
