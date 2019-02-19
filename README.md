@@ -2,8 +2,8 @@
 
 ## Contents
 
-* name
-* version
+* [name](#name)
+* [version](#version)
 * description
 * keywords
 * homepage
@@ -27,3 +27,7 @@
 * preferGlobal
 * private
 * publishConfig
+
+### name
+
+### version
